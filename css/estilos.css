@@ -5,7 +5,7 @@ body{
 }
 
 #hero {
-    background-image: url('/img/Background.jpg');
+    background-image: url('../img/Background.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
